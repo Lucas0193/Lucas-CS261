@@ -1,2 +1,2 @@
-# Lucas-CS261
+# Lucas_CS261
 for cs261 assignment
